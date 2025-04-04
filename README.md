@@ -20,6 +20,6 @@ This program scrapes nightly winning Spin ID's from wheeloffortunesolutions.com,
 5. Run: `python wheel_scraper.py`
 
 ## Why?
-I wanted a hands-off way to catch Wheel wins—turned a daily chore into a script.
+I wanted to create a hands-off way to track if I ever win - turning a chore into a script.
 
 Built by Matt DiMauro
